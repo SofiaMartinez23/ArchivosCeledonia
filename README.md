@@ -22,6 +22,11 @@
 
 ---
 
+## ⚡ **Nota Importante**:
+Ten en cuenta que al descargar estos archivos no estarás ejecutando el juego en su totalidad, ya que algunos elementos esenciales de funcionalidad y diseño aún no están incluidos. Los archivos proporcionados son necesarios para el funcionamiento del juego, pero faltan varios componentes importantes, como **librerías**, **paletas** y **assets de objetos generales** que completan la experiencia de juego. Estos recursos estarán disponibles en futuras actualizaciones o en la versión final del juego.
+
+---
+
 ## ⚙️ **Requisitos**:
 - **Sistema operativo**: Windows (versión recomendada: Windows 10 o superior).
 - **Espacio libre en disco**: 500 MB (para la instalación y archivos del juego).
@@ -50,4 +55,3 @@ Este proyecto está bajo la **Licencia de uso educativo**. Puedes estudiar el c�
 ---
 
 Si tienes alguna pregunta, sugerencia o quieres colaborar en el proyecto, no dudes en abrir un *issue* en este repositorio. ¡Gracias por tu apoyo y por ser parte de la comunidad de desarrolladores!
-
